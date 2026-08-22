@@ -57,6 +57,6 @@ This project was created as a practical Java GUI project to demonstrate how prog
 
 Possible future enhancements include saving student records to a file or database, editing existing records, adding grade letters, generating reports, and adding search or sorting functionality.
 
-## Author
+Umaima Khan
 
 Developed as a Java learning project focused on GUI development, object-oriented programming, and practical application design.
